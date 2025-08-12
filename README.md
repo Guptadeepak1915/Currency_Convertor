@@ -38,4 +38,3 @@ Add support for cryptocurrency conversion.<br>
 Display historical exchange rates.<br>
 Dark mode toggle.<br>
 
-[Currency Converter Screenshot]("C:\Users\Deepak\OneDrive\Pictures\Screenshots\Screenshot 2025-08-12 073751.png")
