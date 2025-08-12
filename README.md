@@ -13,27 +13,27 @@ This tool allows you to quickly convert values between different world currencie
  This is the live link :- https://chipper-cocada-590697.netlify.app/
 
 # 🚀 How It Works
-Enter the amount you want to convert.
-Select the "From" currency and the "To" currency.
-Click Convert to see the result instantly.
-Use the Swap button to reverse currencies.
+Enter the amount you want to convert.<br>
+Select the "From" currency and the "To" currency.<br>
+Click Convert to see the result instantly.<br>
+Use the Swap button to reverse currencies.<br>
 
 # 🛠 Technologies Used
-HTML5 – Structure of the app
-CSS3 – Styling and responsive design
-JavaScript (ES6) – Logic and real-time currency conversion
+HTML5 – Structure of the app<br>
+CSS3 – Styling and responsive design<br>
+JavaScript (ES6) – Logic and real-time currency conversion<br>
 
 # 📂 Installation & Usage
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/currency-converter.git
-Open the index.html file in your browser.
+Clone this repository:<br>
+bash<br>
+Copy<br>
+Edit<br>
+git clone https://github.com/Guptadeepak1915/Currency-Converter.git<br>
+Open the index.html file in your browser.<br>
 
 Start converting currencies instantly!
 
 # 📌 Future Improvements
-Add support for cryptocurrency conversion.
-Display historical exchange rates.
-Dark mode toggle.
+Add support for cryptocurrency conversion.<br>
+Display historical exchange rates.<br>
+Dark mode toggle.<br>
